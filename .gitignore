@@ -1,3 +1,7 @@
+#MP4ファイルとfeatureディレクトリは除去
+*.mp4
+feature/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
